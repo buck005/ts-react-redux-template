@@ -31,3 +31,8 @@
 
 ## 3. typescript配置  
 - tsc -init
+
+## 4.运行项目
+- node版本8已上 
+- 启动 npm run dev
+- 编译 npm run build
